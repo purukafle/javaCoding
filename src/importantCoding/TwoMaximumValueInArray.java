@@ -1,4 +1,4 @@
-package reverseString;
+package importantCoding;
 
 public class TwoMaximumValueInArray {
 	public static String getTwoLagestNum(int[]arr) {

@@ -1,4 +1,4 @@
-package reverseString;
+package importantCoding;
 
 public class RemoveMultipleWhiteSpaces {
 	public void removeSpaces(String str) {

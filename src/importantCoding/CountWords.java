@@ -1,4 +1,4 @@
-package reverseString;
+package importantCoding;
 
 import java.util.HashMap;
 import java.util.Scanner;
